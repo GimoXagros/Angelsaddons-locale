@@ -16,15 +16,15 @@ Thank you for downloaded this mod.
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
 *****
 ##Translations list
-Deutsch(86%)
-le français(77%)
+Deutsch(77%)
+le français(70%)
 Español(5%)
-日本語(84%)
-한국어(100%)
-Polski(87%)
-русском(94%)
-中文 - 简体字(簡體字)(82%)
-中文 - 繁體字(繁体字)(94%)
+日本語(90%)
+한국어(92%)
+Polski(78%)
+русском(90%)
+中文 - 简体字(簡體字)(73%)
+中文 - 繁體字(繁体字)(85%)
 
 -----
 
@@ -36,18 +36,19 @@ sore68, Choi, 둥둥, Jung, River Sand, Lee, Kim, Beak, 안롤드로이드 (한�
 Damgam, Kamil Czesak, Igor Frelikowski, Cylindryk Cylindrykowy (Polski)
 Anton Klimovich, dima74, destunt, diraria, Dmitry Murzin, Dmitry Korotkov, bmidik25, Hormister, AleksTJ, AlberTT (русском)
 aspd199 (中文 - 简体字)
-IamIpanda, Gallons (中文 - 繁體字)
-OZMQ (Español)
+IamIpanda, Gallons, k98a (中文 - 繁體字)
+OZMQ, Samuel Shaaban (Español)
 Junior Lopes (Português, brasileiro)
 
 -----
 
 ##Mod list
+[Angel's Addons - C.A.B.](https://mods.factorio.com/mod/angelsaddons-cab)
 [Angel's Addons - Decorations - Nilaus](https://mods.factorio.com/mod/angelsaddons-nilaus)
 [Angel's Addons - Ore Silos](https://mods.factorio.com/mod/angelsaddons-oresilos)
 [Angel's Addons - Petrochem Train](https://mods.factorio.com/mod/angelsaddons-petrotrain)
 [Angel's Addons - Pressure Tanks](https://mods.factorio.com/mod/angelsaddons-pressuretanks)
-[Angel's Addons - Decorations - Shred](https://mods.factorio.com/mod/angelsaddons-shred)
+[Angel's Addons - Decorations - ShredNation](https://mods.factorio.com/mod/angelsaddons-shred)
 [Angel's Addons - Smelting Train](https://mods.factorio.com/mod/angelsaddons-smeltingtrain)
 [Angel's Addons - Warehouses](https://mods.factorio.com/mod/angelsaddons-warehouses)
 [Angel's Bio Processing [ALPHA UPDATE]](https://mods.factorio.com/mod/angelsbioprocessing)

@@ -1,23 +1,33 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 2019-04-14
+  Changes:
+    - Updated Español (Samuel Shaaban)
+    - Updated le francais (Firerazer)
+    - Updated 한국어
+    - Updated русском (Dmitry Korotkov)
+    - Updated 日本語 (Shirutan)
+    - Updated 中文 - 繁體字 (k98a)
+---------------------------------------------------------------------------------------------------
 Version: 0.2.2
-Date: 2018-03-25
+Date: 2019-03-25
   Changes:
     - Updated for Angel's Bio Processing
     - Updated русском (by Anton Klimovich, Dmitry Korotkov)
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.1
-Date: 2018-03-18
+Date: 2019-03-18
   Changes:
     - Fixed initial error (中文 - 繁體字) (by orient0724)
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
-Date: 2018-03-15
+Date: 2019-03-15
   Changes:
     - Updated 한국어
     - Updated for Factorio 0.17
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.50
-Date: 2018-01-23
+Date: 2019-01-23
   Changes:
     - Updated 한국어
     - Updated Deutsch (by Karosieben)

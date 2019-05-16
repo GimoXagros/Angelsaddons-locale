@@ -16,19 +16,21 @@ Thank you for downloaded this mod.
 https://mods.factorio.com/ 이외의 사이트 배포는 불허합니다. 공유가 필요 할 시 사이트 링크로 대체해주세요.
 *****
 ##Translations list
+Nederlands (13%)
 Deutsch(77%)
-le français(70%)
-Español(5%)
+le français(75%)
+Español(6%)
 日本語(90%)
-한국어(92%)
+한국어(100%)
 Polski(78%)
 русском(90%)
 中文 - 简体字(簡體字)(73%)
-中文 - 繁體字(繁体字)(88%)
+中文 - 繁體字(繁体字)(86%)
 
 -----
 
 ##Big thanks
+ppaasman (Nederlands)
 lennardjones, blackerking, Jonas Siewert, Oliver Stotzem, Karosieben (Deutsch)
 Firerazer (le français)
 Shirutan (日本語)

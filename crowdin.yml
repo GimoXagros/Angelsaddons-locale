@@ -1,5 +1,5 @@
 files:
   - source: /locale/Origin_en/
-    translation: /locale/%two_letters_code%/%file_name%_%locale_with_underscore%.cfg
+    translation: /locale/%two_letters_code%/%file_name%_%two_letters_code%.cfg
     dest: /%file_name%.ini
     type: ini
